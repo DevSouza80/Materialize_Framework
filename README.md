@@ -102,11 +102,6 @@ cd materialize-estudos
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **[Seu Nome](https://github.com/seu-usuario)** — em constante aprendizado!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-
----
+Dev Souza
 
 ⭐ Se este repositório te ajudou de alguma forma, deixe uma estrela!
